@@ -1,0 +1,11 @@
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user VARCHAR(255),
+    role VARCHAR(255),
+    street VARCHAR(255),
+    city VARCHAR(255),
+    country1 VARCHAR(255),
+    pincode VARCHAR(20),
+    state VARCHAR(255),
+    country2 VARCHAR(255)
+);

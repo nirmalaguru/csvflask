@@ -1,0 +1,11 @@
+user,role,street,city,country1,pincode,state,country2
+Alice,Admin,123 Main St,New York,USA,10001,NY,USA
+Bob,User,456 Oak St,Los Angeles,USA,90001,CA,USA
+Charlie, ,789 Pine St,Chicago,USA,60601,IL,USA
+David,Manager, ,Houston,USA,77001,TX,USA
+Eve,User,101 Maple Ave, ,USA,abcde,FL,USA
+Frank,Admin,202 Birch Rd,Phoenix,USA, ,AZ,USA
+Grace,User,303 Cedar St,Philadelphia,USA,19101, ,USA
+Hank,User,404 Spruce St,San Antonio,USA,78201,TX, 
+Ivy,Admin,505 Walnut St,San Diego,USA,92101,CA,USA
+Jack,User,606 Elm St,Dallas,USA,75201,TX,USA
